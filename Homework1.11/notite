@@ -1,0 +1,24 @@
+Diagramă UML (Explicație)
+Interfața Shape:
+
+Atribut: culoare
+Metodă: getPerimetru()
+Clasa abstractă Shape2D (extinde Shape):
+
+Metodă abstractă: getAria()
+Clasa abstractă Shape3D (extinde Shape):
+
+Metodă abstractă: getVolum()
+Clasa SegmentDeDreapta (implementează Shape):
+
+Atribute: lungime
+Metodă: getPerimetru() → returnează lungimea segmentului
+Clase 2D (Patrat, Cerc):
+
+Extind Shape2D
+Implementare pentru getPerimetru() și getAria()
+Clase 3D (Sfera, Cub):
+
+Extind Shape3D
+Implementare pentru getPerimetru() (folosit convențional ca perimetru echivalent)
+Implementare pentru getAria() și getVolum()
