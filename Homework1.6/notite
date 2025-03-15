@@ -1,0 +1,18 @@
+Diagrame UML
+Clasa Persoana
+
+Persoana are un nume și o adresa.
+Profesor și Student moștenesc Persoana.
+Clasa Adresa
+
+Contine informații despre adresă.
+Clasa Profesor
+
+Extinde Persoana.
+Clasa Student
+
+Extinde Persoana.
+Clasa Curs
+
+Are un Profesor și o listă de Studenti.
+Metode pentru a adăuga/elimina studenți și profesori.
