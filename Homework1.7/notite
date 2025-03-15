@@ -1,0 +1,12 @@
+Diagrame UML
+Clasa Persoana
+
+Are nume și o adresa.
+Angajat moștenește Persoana.
+Clasa Adresa
+
+Conține informații despre locație.
+Clasa Companie
+
+Are un nume și o listă de Angajati.
+Metode pentru gestionarea angajaților.
