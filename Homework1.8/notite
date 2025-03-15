@@ -1,0 +1,14 @@
+Diagrame UML (relații)
+Clasa Person
+
+Are un nume și o adresa.
+Tourist moștenește Person.
+Clasa Address
+
+Conține strada, oraș, cod poștal.
+Clasa City
+
+Conține numele orașului și o listă de hoteluri.
+Clasa Hotel
+
+Are un nume, o adresa și o listă de turiști cazați.
