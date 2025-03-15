@@ -1,0 +1,7 @@
+1.42.	O interfață nu poate fi instanțiată direct deoarece nu are o implementare concretă
+1.43	implements este folosit pentru a implementa o interfață într-o clasă
+		extends este folosit pentru moștenirea unei clase
+1.44	În Java, variabilele dintr-o interfață sunt implicit public, static și final, adică sunt constante accesibile global.
+		Se folosesc pentru definirea unor valori constante care pot fi utilizate de toate clasele care implementează interfața.
+1.45	Interfață → Când vrem să definim contractul pe care îl respectă mai multe clase 
+Clasă abstractă → Când vrem să avem o bază comună pentru mai multe clase care partajează cod (ex: Animal cu metoda makeSound() implementată parțial).
